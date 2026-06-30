@@ -191,20 +191,6 @@ Create a `.env` file inside the `client` directory:
 
 VITE_BACKEND_URL=http://localhost:4000
 
----
-
-## 📸 Screenshots
-
-> Add screenshots of:
-- Home Page
-- Product Page
-- Cart
-- Login
-- Seller Dashboard
-- Add Product
-- Orders Page
-
----
 
 ## 📌 Future Improvements
 
