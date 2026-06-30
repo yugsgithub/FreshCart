@@ -48,12 +48,6 @@ FreshCart is a full-stack e-commerce web application built using the MERN stack.
 
 ---
 
-### 🛒 Product List
-
-![List](screenshots/prodcutlist.png)
-
----
-
 ### ➕ Add Product
 
 ![Add Product](screenshots/admin.png)
@@ -117,7 +111,6 @@ FreshCart is a full-stack e-commerce web application built using the MERN stack.
 
 ## 📂 Project Structure
 
-```
 FreshCart
 │
 ├── client
@@ -136,7 +129,6 @@ FreshCart
 │   └── server.js
 │
 └── README.md
-```
 
 ---
 
@@ -144,26 +136,20 @@ FreshCart
 
 ### Clone the Repository
 
-```bash
-git clone https://github.com/YOUR_USERNAME/FreshCart.git
+git clone https://github.com/yugsgithub/FreshCart.git
 cd FreshCart
-```
 
 ### Install Dependencies
 
 Frontend
 
-```bash
 cd client
 npm install
-```
 
 Backend
 
-```bash
 cd ../server
 npm install
-```
 
 ---
 
@@ -171,15 +157,12 @@ npm install
 
 Backend
 
-```bash
 npm run server
-```
+
 
 Frontend
 
-```bash
 npm run dev
-```
 
 ---
 
@@ -187,7 +170,6 @@ npm run dev
 
 Create a `.env` file inside the `server` directory and configure the required environment variables:
 
-```
 PORT=
 MONGODB_URI=
 JWT_SECRET=
@@ -198,13 +180,11 @@ CLOUDINARY_API_KEY=
 CLOUDINARY_API_SECRET=
 STRIPE_SECRET_KEY=
 STRIPE_WEBHOOK_SECRET=
-```
+
 
 Create a `.env` file inside the `client` directory:
 
-```
 VITE_BACKEND_URL=http://localhost:4000
-```
 
 ---
 
