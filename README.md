@@ -2,7 +2,9 @@
 
 FreshCart is a full-stack e-commerce web application built using the MERN stack. It provides a seamless shopping experience for customers along with a dedicated seller dashboard for managing products, inventory, and orders.
 
+## 🎥 Demo
 🌐 **Live Demo:** https://freshcart-project-frontend.onrender.com
+[![Watch Full Demo](screenshots/home.png)](https://drive.google.com/file/d/1LMezHBGOmnlHW0rw9D-AO8BGZTlhlRFn/view?usp=drive_link)
 
 ---
 
